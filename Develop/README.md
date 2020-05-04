@@ -1,16 +1,8 @@
-# <project-title>
-
-`<test>` test
-
-```python 
-def foo():
-    if not bar:
-        return True
-```
+# abc
 
 ## Description
 
-<description>
+def
 
 ## Table of Contents
 
