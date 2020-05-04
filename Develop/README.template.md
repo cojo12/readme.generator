@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-<table-of-content>
+<table-of-contents>
 
 ## Installation
 
