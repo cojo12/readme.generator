@@ -15,7 +15,7 @@ const questions = [
   { token: '<license>', question: 'This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/) '},
   { token: '<contributing>', question: 'If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own. '},
   { token: '<tests>', question: 'Go the extra mile and write tests for your application. Then provide examples on how to run them. '},
-  { token: '<questions>', question: 'What is in the table of contents? '},
+  { token: '<questions>', question: 'Insert your contact info for questions about the project: '},
 
 ];
 

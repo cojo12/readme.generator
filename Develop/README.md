@@ -1,12 +1,12 @@
-# asdf
+# Readme generator
 
 ## Description
 
-wer
+Generates a readme from provided information
 
 ## Table of Contents
 
-nothing
+Not much
 
 ## Installation
 
@@ -14,15 +14,15 @@ nothing
 
 ## Usage
 
-<usage>
+type in node index.js and answer the questions to have a readme generated
 
 ## License
 
-<license>
+Do whatever you want
 
 ## Contributing
 
-<contributing>
+Nope
 
 ## Tests
 
