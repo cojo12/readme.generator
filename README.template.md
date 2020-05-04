@@ -3,11 +3,9 @@
 `<test>` test
 
 ```python 
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+def foo():
+    if not bar:
+        return True
 ```
 
 ## Description
