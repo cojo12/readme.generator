@@ -2,6 +2,14 @@
 
 `<test>` test
 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
 ## Description
 
 <description>
